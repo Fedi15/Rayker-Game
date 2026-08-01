@@ -112,22 +112,81 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 
 ## Gallery
 
-## Character Creation
-
-![Character Creation](Docs/Images/character_creation.png)
-
-## Multiplayer
-
-![Multiplayer](Docs/Images/multiplayer.png)
-
-## Inventory
-
-![Inventory](Docs/Images/inventory.png)
-
 ## Boss Fight
 
-![Boss Fight](Docs/Images/boss_fight.png)
+![Boss Fight](Screenshots/BossFight.png)
+
 ---
+
+## Boss Fight Cinematic 1
+
+![Boss Fight Cinematic 1](Screenshots/BossFightCinema1.png)
+
+---
+
+## Boss Fight Cinematic 2
+
+![Boss Fight Cinematic 2](Screenshots/BossFightCinema2.png)
+
+---
+
+## Boss Fight Entrance
+
+![Boss Fight Entrance](Screenshots/BossFightEntrance.png)
+
+---
+
+## Character Creation
+
+![Character Creation](Screenshots/CharacterCreation.png)
+
+---
+
+## Equipment Menu
+
+![Equipment Menu](Screenshots/EquipmentMenu.png)
+
+---
+
+## Friend System
+
+![Friend System](Screenshots/FriendSystem.png)
+
+---
+
+## Heal Potion
+
+![Heal Potion](Screenshots/HealPotion.png)
+
+---
+
+## Main Menu
+
+![Main Menu](Screenshots/Menu.png)
+
+---
+
+## Site of Grace
+
+![Site of Grace](Screenshots/SiteofGrace.png)
+
+---
+
+## Tooltip Menu
+
+![Tooltip Menu](Screenshots/TooltipMenu.png)
+
+---
+
+## Weapon Skill 1
+
+![Weapon Skill 1](Screenshots/WeaponSkill1.png)
+
+---
+
+## Weapon Skill 2
+
+![Weapon Skill 2](Screenshots/WeaponSkill2.png)
 
 ## Gameplay Video
 
