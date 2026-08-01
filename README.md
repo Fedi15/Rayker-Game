@@ -4,7 +4,6 @@ a souls like game with multiplayer
               SURVIVAL GAME
 Open World • Multiplayer • RPG • Survival
 ====================================================
-# Survival Game
 
 A multiplayer open-world survival RPG built in Unity using Netcode for GameObjects.
 
