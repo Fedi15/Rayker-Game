@@ -118,7 +118,7 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 
 ## Gameplay Video
 
-(Add YouTube trailer)
+[(Add YouTube trailer)](https://www.youtube.com/watch?v=K74Xe8AV6Hw&t=22s)
 
 ---
 
