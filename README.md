@@ -112,8 +112,21 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 
 ## Gallery
 
-(Add screenshots here)
+## Character Creation
 
+![Character Creation](Docs/Images/character_creation.png)
+
+## Multiplayer
+
+![Multiplayer](Docs/Images/multiplayer.png)
+
+## Inventory
+
+![Inventory](Docs/Images/inventory.png)
+
+## Boss Fight
+
+![Boss Fight](Docs/Images/boss_fight.png)
 ---
 
 ## Gameplay Video
