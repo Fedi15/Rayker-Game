@@ -111,6 +111,17 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 ---
 
 ## Gallery
+## Start Menu
+
+![Boss Fight](Screenshots/trailer_thumbnail.png)
+
+## Loading World
+
+![Boss Fight](Screenshots/LoadingWorld.png)
+
+## Character Creation
+
+![Boss Fight](Screenshots/CharacterCreation.png)
 
 ## Boss Fight
 
@@ -190,12 +201,11 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 
 ## Gameplay Video
 
-<a href="https://www.youtube.com/watch?v=K74Xe8AV6Hw">
-  <img src="https://img.youtube.com/vi/K74Xe8AV6Hw/maxresdefault.jpg"
-       alt="Watch Gameplay Trailer"
-       width="900">
-</a>
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=K74Xe8AV6Hw">
+    <img src="Screenshots/trailer_thumbnail.png" width="900" alt="Gameplay Trailer">
+  </a>
+</p>
 ---
 
 ## Future Plans
