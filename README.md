@@ -5,9 +5,9 @@ a souls like game with multiplayer
 Open World • Multiplayer • RPG • Survival
 ====================================================
 
-A multiplayer open-world survival RPG built in Unity using Netcode for GameObjects.
+A multiplayer open-world Souls-like survival RPG built in Unity 6 using Netcode for GameObjects and Unity Gaming Services.
 
-The project focuses on scalable multiplayer architecture, character persistence, patching, and online gameplay rather than being a simple gameplay prototype.
+The project emphasizes scalable multiplayer architecture, persistent online characters, modular systems, patch distribution, and long-term maintainability rather than serving as a simple gameplay prototype.
 
 ---
 
@@ -15,11 +15,13 @@ The project focuses on scalable multiplayer architecture, character persistence,
 
 - Multiplayer survival experience
 - Character creation and customization
-- World exploration
-- Combat
+- Open-world exploration
+- Souls-like melee combat
 - Boss encounters
-- Inventory and equipment
+- Inventory and equipment system
 - Character progression
+- Friend system
+- Player invitations
 - Revive system
 - Health regeneration
 - Persistent player saves
@@ -47,6 +49,16 @@ The project focuses on scalable multiplayer architecture, character persistence,
 - Persistent character saves
 - World-specific character data
 
+### Friend System
+
+- Add and remove friends
+- Send and receive friend requests
+- Real-time online status
+- Join friends' worlds
+- Lobby invitations
+- In-game friend list
+- Unity Gaming Services Friends integration
+  
 ### Save System
 
 - Character serialization
@@ -161,6 +173,20 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 ## Friend System
 
 ![Friend System](Screenshots/FriendSystem.png)
+
+### Friendly Player
+
+Players in your world are clearly identified with a friendly indicator, making cooperative gameplay easier.
+
+![Friendly Player](Screenshots/Friend.png)
+
+---
+
+### Invader
+
+Enemy players invading your world are visually distinguished from friendly players to provide immediate gameplay feedback.
+
+![Invader](Screenshots/Invader.png)
 
 ---
 
