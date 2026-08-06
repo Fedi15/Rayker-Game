@@ -242,6 +242,10 @@ Enemy players invading your world are visually distinguished from friendly playe
 
 - Dedicated servers
 - Steam integration
+- Guild / Clan system
+- Friend chat
+- Party system
+- Trading system
 - More biomes
 - Crafting expansion
 - Quest system
