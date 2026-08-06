@@ -121,40 +121,11 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 
 ---
 
-## Gallery
-## Start Menu
+# Gallery
 
-![Boss Fight](Screenshots/trailer_thumbnail.png)
+## Main Menu
 
-## Loading World
-
-![Boss Fight](Screenshots/LoadingWorld.png)
-
-## Character Creation
-
-![Boss Fight](Screenshots/CharacterCreation.png)
-
-## Boss Fight
-
-![Boss Fight](Screenshots/BossFight.png)
-
----
-
-## Boss Fight Cinematic 1
-
-![Boss Fight Cinematic 1](Screenshots/BossFightCinema1.png)
-
----
-
-## Boss Fight Cinematic 2
-
-![Boss Fight Cinematic 2](Screenshots/BossFightCinema2.png)
-
----
-
-## Boss Fight Entrance
-
-![Boss Fight Entrance](Screenshots/BossFightEntrance.png)
+![Main Menu](Screenshots/Menu.png)
 
 ---
 
@@ -164,13 +135,9 @@ The project follows a modular architecture separating gameplay, networking, UI, 
 
 ---
 
-## Equipment Menu
-
-![Equipment Menu](Screenshots/EquipmentMenu.png)
-
----
-
 ## Friend System
+
+Manage your friends, send invitations, and join multiplayer sessions.
 
 ![Friend System](Screenshots/FriendSystem.png)
 
@@ -180,8 +147,6 @@ Players in your world are clearly identified with a friendly indicator, making c
 
 ![Friendly Player](Screenshots/Friend.png)
 
----
-
 ### Invader
 
 Enemy players invading your world are visually distinguished from friendly players to provide immediate gameplay feedback.
@@ -190,15 +155,17 @@ Enemy players invading your world are visually distinguished from friendly playe
 
 ---
 
-## Heal Potion
+## Loading World
 
-![Heal Potion](Screenshots/HealPotion.png)
+![Loading World](Screenshots/LoadingWorld.png)
 
 ---
 
-## Main Menu
+# Gameplay
 
-![Main Menu](Screenshots/Menu.png)
+## Open World
+
+![Open World](Screenshots/trailer_thumbnail.png)
 
 ---
 
@@ -208,9 +175,21 @@ Enemy players invading your world are visually distinguished from friendly playe
 
 ---
 
+## Equipment Menu
+
+![Equipment Menu](Screenshots/EquipmentMenu.png)
+
+---
+
 ## Tooltip Menu
 
 ![Tooltip Menu](Screenshots/TooltipMenu.png)
+
+---
+
+## Heal Potion
+
+![Heal Potion](Screenshots/HealPotion.png)
 
 ---
 
@@ -223,6 +202,32 @@ Enemy players invading your world are visually distinguished from friendly playe
 ## Weapon Skill 2
 
 ![Weapon Skill 2](Screenshots/WeaponSkill2.png)
+
+---
+
+# Boss Encounter
+
+## Boss Fight
+
+![Boss Fight](Screenshots/BossFight.png)
+
+---
+
+## Boss Fight Entrance
+
+![Boss Fight Entrance](Screenshots/BossFightEntrance.png)
+
+---
+
+## Boss Fight Cinematic 1
+
+![Boss Fight Cinematic 1](Screenshots/BossFightCinema1.png)
+
+---
+
+## Boss Fight Cinematic 2
+
+![Boss Fight Cinematic 2](Screenshots/BossFightCinema2.png)
 
 ## Gameplay Video
 
